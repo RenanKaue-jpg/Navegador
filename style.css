@@ -1,0 +1,53 @@
+header{
+    background-color: blueviolet;
+}
+nav{
+    background-color: cyan;
+}
+
+body {
+
+  margin: 0;
+  font-family: arial;
+  background-color: black;
+  color: white;
+  font-size: 22px;
+
+}
+
+h1 {
+
+  margin: 0;
+  padding: 20px;
+
+}
+
+header {
+
+  background-color: aqua;
+}
+
+nav {
+
+  background-color: blue;
+  padding: 20px;
+}
+
+a{
+
+  color: blueviolet;
+  text-decoration: none;
+  padding: 20px;
+
+}
+
+a:visited {
+  color: lawngreen;
+}
+
+a:hover {
+
+  background-color: grey;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+}
